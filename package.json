@@ -1,14 +1,24 @@
 {
   "name": "chai-fs",
-  "version": "0.1.0",
+  "version": "0.1.1-beta",
   "description": "Chai assertions for Node.js filesystem",
   "author": {
     "name": "Bart van der Schoor",
     "url": "https://github.com/Bartvds"
   },
+  "contributors": [
+    {
+      "name": "Jeff Escalante",
+      "url": "https://github.com/jenius"
+    },
+    {
+      "name": "Brian Mearns",
+      "url": "http://brianmearns.com/wp/"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Bartvds/chai-fs.git"
+    "url": "https://github.com/mearns/chai-fs.git"
   },
   "licenses": [
     {
